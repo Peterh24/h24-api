@@ -58,7 +58,7 @@
 
             <trans-unit id="title.homepage">
                 <source>title.homepage</source>
-                <target><![CDATA[Bienvenue sur l'application <strong>Symfony Demo</strong>]]></target>
+                <target><![CDATA[H24 Transports]]></target>
             </trans-unit>
             <trans-unit id="title.source_code">
                 <source>title.source_code</source>
@@ -171,7 +171,7 @@
             </trans-unit>
             <trans-unit id="action.browse_app">
                 <source>action.browse_app</source>
-                <target>Naviguer sur l'application</target>
+                <target>Naviguer sur le site</target>
             </trans-unit>
             <trans-unit id="action.browse_admin">
                 <source>action.browse_admin</source>
@@ -361,7 +361,7 @@
 
             <trans-unit id="help.app_description">
                 <source>help.app_description</source>
-                <target><![CDATA[Ceci est une <strong>application de démonstration</strong> construite avec le framework Symfony pour illustrer la façon recommandée de développer des applications Symfony.]]></target>
+                <target><![CDATA[Interface administration H24 Transports]]></target>
             </trans-unit>
             <trans-unit id="help.show_code">
                 <source>help.show_code</source>
@@ -369,11 +369,11 @@
             </trans-unit>
             <trans-unit id="help.browse_app">
                 <source>help.browse_app</source>
-                <target><![CDATA[Parcourir la <strong>section publique</strong> de l'application de démonstration.]]></target>
+                <target><![CDATA[Partie public]]></target>
             </trans-unit>
             <trans-unit id="help.browse_admin">
                 <source>help.browse_admin</source>
-                <target><![CDATA[Parcourir l'<strong>interface d'administration</strong> de l'application de démonstration.]]></target>
+                <target><![CDATA[Parcourir l'<strong>interface d'administration]]></target>
             </trans-unit>
             <trans-unit id="help.login_users">
                 <source>help.login_users</source>
@@ -397,7 +397,7 @@
             </trans-unit>
             <trans-unit id="help.more_information">
                 <source>help.more_information</source>
-                <target><![CDATA[Pour plus d'informations, consultez la <a href="https://symfony.com/doc">documentation de Symfony</a>.]]></target>
+                <target><![CDATA[]]></target>
             </trans-unit>
             <trans-unit id="help.post_summary">
                 <source>help.post_summary</source>

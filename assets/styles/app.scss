@@ -69,7 +69,7 @@ i {
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh
+  min-height: 100vh;
 }
 
 header {
@@ -381,4 +381,12 @@ body#blog_search article.post {
 body#blog_search .post-metadata {
   font-size: 16px;
   margin-bottom: 8px;
+}
+
+.page-header h1{
+  color: #ffffff;
+}
+
+#homepage {
+  background-color: #000000;
 }
