@@ -26,7 +26,6 @@
                         <a href="{{ path('admin_post_show', {id: post.id}) }}" class="btn btn-sm btn-default">
                             <i class="fa fa-eye" aria-hidden="true"></i> {{ 'action.show'|trans }}
                         </a>
-
                         <a href="{{ path('admin_post_edit', {id: post.id}) }}" class="btn btn-sm btn-primary">
                             <i class="fa fa-edit" aria-hidden="true"></i> {{ 'action.edit'|trans }}
                         </a>
@@ -44,7 +43,7 @@
 
 {% block sidebar %}
     <div class="section actions">
-        <a href="{{ path('admin_post_new') }}" class="btn btn-lg btn-block btn-success">
+        <a href="{{ path('admin_post_new') }}" class="btn btn-lg btn-block btn-primary">
             <i class="fa fa-plus" aria-hidden="true"></i> {{ 'action.create_post'|trans }}
         </a>
     </div>
